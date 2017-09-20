@@ -1,0 +1,23 @@
+{
+  "name": "ift605-rest",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wathek/IFT605.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/wathek/IFT605/issues"
+  },
+  "homepage": "https://github.com/wathek/IFT605#readme",
+  "dependencies": {
+    "express": "^4.15.4"
+  }
+}
