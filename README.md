@@ -19,3 +19,4 @@ Pour récupérer un exemple vous devez switcher de branche en utilisant la comma
 * middleware-ipc-02: Java Sockets
 * middleware-soap: Java SOAP exemple
 * middleware-rest: Node.js REST exemple
+* middleware-rest-go: Go REST exemple
