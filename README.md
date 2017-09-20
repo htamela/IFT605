@@ -17,3 +17,5 @@ Pour récupérer un exemple vous devez switcher de branche en utilisant la comma
 ## Liste des exemples:
 * middleware-ipc-01: PHP Shared Memory
 * middleware-ipc-02: Java Sockets
+* middleware-soap: Java SOAP exemple
+* middleware-rest: Node.js REST exemple
