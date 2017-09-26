@@ -20,3 +20,4 @@ Pour récupérer un exemple vous devez switcher de branche en utilisant la comma
 * middleware-soap: Java SOAP exemple
 * middleware-rest: Node.js REST exemple
 * middleware-rest-go: Go REST exemple
+* middleware-rmi: RMI exemple
